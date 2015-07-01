@@ -1,0 +1,27 @@
+{
+  "name": "alpha-server",
+  "version": "1.0.0",
+  "description": "ROOK alpha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanLabs/alpha.git"
+  },
+  "author": "sweetcoco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanLabs/alpha/issues"
+  },
+  "homepage": "https://github.com/PanLabs/alpha#readme",
+  "dependencies": {
+    "handlebars": "^3.0.3",
+    "hapi": "^8.6.1",
+    "hapi-auth-cookie": "^3.0.1",
+    "joi": "^6.5.0",
+    "mongoose": "^4.0.6",
+    "passport-local-mongoose": "^1.0.1"
+  }
+}
