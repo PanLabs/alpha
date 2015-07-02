@@ -1,8 +1,8 @@
 module.exports = {
 	mongo: {
-		username: '-', //
-		password: '-', //
-		url: '-', //
+		username: 'mongodb', //
+		password: '', //
+		url: 'localhost:27017', //
 		database: '-' //
 	},
 	server: {
